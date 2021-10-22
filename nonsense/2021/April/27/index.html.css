@@ -25,3 +25,7 @@ a:hover {
  color: black;
  text-decoration: underline;
 }
+
+.redpen {
+ color: red;
+}
